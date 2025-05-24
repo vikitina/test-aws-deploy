@@ -1,0 +1,20 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.photoBlock{
+    width: 500px;
+    background: red;
+    min-height: 500px;
+}
+.description{
+    width: 500px;
+    background: #ffc400;
+    min-height: 500px;
+}
+.image{
+    width: 100%;
+    display: block;
+}

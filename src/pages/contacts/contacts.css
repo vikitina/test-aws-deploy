@@ -1,0 +1,90 @@
+.contacts {
+    background: #f4f0ea;
+    padding-top: 60px;
+    padding-bottom: 75px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.left {
+    width: 500px;
+}
+
+.title {
+    margin: 0 0 40px;
+    font-size: 50px;
+    font-weight: normal;
+    line-height: 70px;
+}
+
+.form {}
+
+.input {
+    height: 60px;
+    width: 412px;
+    border: 1px solid grey;
+    display: block;
+    margin-bottom: 30px;
+    background-color: transparent;
+    font-size: 23px;
+    font-family: inherit;
+    padding-left: 16px;
+    box-sizing: border-box;
+}
+
+.textarea {
+    height: 138px;
+    width: 412px;
+    border: 1px solid grey;
+    display: block;
+    background-color: transparent;
+    font-size: 23px;
+    font-family: inherit;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-bottom: 28px;
+}
+
+.submit {
+    display: block;
+    width: 412px;
+    font-size: 23px;
+    font-family: inherit;
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 21px 0 20px;
+}
+
+.right {
+    padding-top: 123px;
+}
+
+.subtitle {
+    margin: 0 0 30px;
+    font-size: 37px;
+    line-height: 45px;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.info-item {
+    font-size: 26px;
+    line-height: 45px;
+    margin-bottom: 24px;
+    color: blue;
+}
+
+.info-item:hover {
+ color: crimson;
+}
